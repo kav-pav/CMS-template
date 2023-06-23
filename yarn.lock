@@ -2568,7 +2568,7 @@
     react-intl "6.4.1"
     yup "^0.32.9"
 
-"@strapi/plugin-graphql@^4.11.2":
+"@strapi/plugin-graphql@4.11.2":
   version "4.11.2"
   resolved "https://registry.yarnpkg.com/@strapi/plugin-graphql/-/plugin-graphql-4.11.2.tgz#023cf5800c479de229eb15263e32dc26db7277e4"
   integrity sha512-6ZhozlqA2u/XKl3/nx3+QCy+ABQUoYWkZiF/G6EuaCKGhJ0xTaDRQgb+Ynog3ZukhdODz2OfpHNmDamDLCBQNA==
